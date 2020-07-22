@@ -30,8 +30,22 @@
     top: 0;
     font-size: 20px;
 
-    
-}
+      
+   }
+
+.child1 {
+    background-color: blue;
+  }
+
+  
+    .child2 {
+    background-color: black;
+  }
+
+  .child3 {
+    background-color: grey;
+  }
+
 .container div {
  
 }
